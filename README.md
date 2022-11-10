@@ -34,3 +34,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>  
 </div>
+<p/>
+<div align ="center">
+  <a href="https://wakatime.com/@ca6952ac-c265-4501-a080-87e31162c253">
+    <img src="https://wakatime.com/badge/user/ca6952ac-c265-4501-a080-87e31162c253.svg" alt="Total time coded" />
+  </a>
+</div>
+
+
