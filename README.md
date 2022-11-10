@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m Ji Young, a full stack software developer always ready to collaborate and take on challenging problems
+- 👋 Hi I’m Ji Young, a full stack software developer always ready to collaborate and take on challenging problems
 - 👀 My current stack is React.js - C#/.NET Core - MS SQL
 - 🌱 I’m open to collaborating on open source projects and learn new programming languages and tech stacks
 
@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<p/>
 <div align = "center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width = "auto" height = "300"/>
 </div>
